@@ -1,0 +1,67 @@
+{
+  "confidence": "0.9",
+  "playbutton": {
+    "path": "images/playbutton.png",
+    "left": 400,
+    "top": 800,
+    "width": 165,
+    "height": 80
+  },
+  "endturnlit": {
+    "path": "images/endturnlit.png",
+    "left": 690,
+    "top": 925,
+    "width": 200,
+    "height": 100
+  },
+  "somethingwrong": {
+    "path": "images/somethingwrong.png",
+    "left": 630,
+    "top": 420,
+    "width": 90,
+    "height": 90
+  },
+  "retreatnow": {
+    "path": "images/retreatnow.png",
+    "left": 260,
+    "top": 730,
+    "width": 210,
+    "height": 90
+  },
+  "collectrewards": {
+    "path": "images/collectrewards.png",
+    "left": 690,
+    "top": 925,
+    "width": 200,
+    "height": 100
+  },
+  "next": {
+    "path": "images/next.png",
+    "left": 300,
+    "top": 900,
+    "width": 350,
+    "height": 150
+  },
+  "retreatbutton": {
+    "path": "images/retreatbutton.png",
+    "left": 100,
+    "top": 925,
+    "width": 200,
+    "height": 100
+  },
+  "playing": {
+    "path": "images/playing.png",
+    "left": 690,
+    "top": 925,
+    "width": 200,
+    "height": 100
+  },
+  "glitchwait": {
+    "path": "images/glitchwait.png",
+    "left": 690,
+    "top": 925,
+    "width": 200,
+    "height": 100
+  },
+  "lanepixels": [[314, 559], [487, 548], [661, 560]]
+}

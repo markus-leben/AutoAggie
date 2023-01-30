@@ -2,7 +2,7 @@
 
 AutoAggie is an automated way to use Agatha Harkness to generate season pass levels in Marvel Snap
 
-Before using this, be aware that it is a TOS violation, and may lead to permanent deletion of your account. However, it shouldn't harm any under user, you're always going to lose, and you're going to face mostly bots anyway. 
+Before using this, be aware that it is a TOS violation, and may lead to permanent deletion of your account. However, it shouldn't harm any other user, you're always going to lose, and you're going to face mostly bots anyway. 
 
 # How to Install
 
